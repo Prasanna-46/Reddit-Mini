@@ -1,0 +1,13 @@
+.post-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+}
+
+@media (max-width: 768px) {
+    .post-list {
+        gap: 15px;
+        padding: 10px;
+    }
+}

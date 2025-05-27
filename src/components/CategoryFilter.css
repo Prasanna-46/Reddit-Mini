@@ -1,0 +1,16 @@
+.category-filter {
+    margin: 20px 0;
+}
+
+.category-filter select {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    background-color: white;
+    cursor: pointer;
+}
+
+.category-filter select:focus {
+    outline: none;
+    border-color: #ff4500;
+}
