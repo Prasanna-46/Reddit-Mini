@@ -163,8 +163,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Prasanna L**
-- GitHub: [@yourusername](https://github.com/Prasanna-46)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7334993670162522112/)
+- GitHub: [@Prasanna-46](https://github.com/Prasanna-46)
+- LinkedIn: [Prasanna-L](https://www.linkedin.com/feed/update/urn:li:activity:7334993670162522112/)
 
 ## 🙏 Acknowledgments
 
